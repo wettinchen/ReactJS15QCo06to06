@@ -1,3 +1,42 @@
+## ReactJS Chapter 15
+It is my coding practice with the TUTORIAL of Dave Gray. 
+
+## Source
+### Dave Gray 的 Reactjs 課程
+https://youtube.com/playlist?list=PL0Zuz27SZ-6PrE9srvEn8nbhOOyxnWXfp
+### Dave Gray 的 YouTube 頻道
+https://www.youtube.com/@DaveGrayTeachesCode
+
+## ReactJS Chapter 15
+   Quick Concept outline
+   中文摘要說明與重點提問
+   
+###  1. Intro 
+        教學影片固定的開頭和摘要說明
+
+###  2. Welcome <Code更動>
+        
+
+###  3. React Beginners Challenge - Part A
+        說明
+
+###  4. Hints and Helpers for Part A
+        
+
+###  5. Solution Setup <Code更動>
+        src 資料夾僅留下 App.js, index.css, index.js 三個檔案
+        刪除多餘多餘的 code
+
+###  6. Solution for Part A <Code更動>
+        
+
+###  7. React Beginners Challenge - Part B <Code更動>
+        
+###  8. Hints and Helpers for Part B
+
+###  9. Solution for Part B
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
